@@ -1,3 +1,19 @@
-.navbar navbar-expand-lg bg-light {
-    background-color: darkcyan;
+.navbar{
+    background-color: #19875478;
 }
+.storeLogo {
+    height: 20px;
+    width: 20px;
+}
+
+li {
+      display: inline;
+      padding-left: 20px;
+      
+    }
+    a {
+      color: #777777;
+      text-decoration: none;
+      
+      
+    }
